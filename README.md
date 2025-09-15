@@ -31,8 +31,9 @@ leaflet to make this realtime tracker.
 ---
 
 ## 🎓 Certifications  
-- 
--   
+- AWS Academy
+- Java+Dsa
+- Full Stack 
 
 ---
 
