@@ -5,26 +5,6 @@ https://userunknown84.github.io/MyPortfolio/
 💻 Exploring Full-Stack Development and DevOps  
 🌱 Eager to learn, grow, and gain hands-on experience in building real-world applications  
 
----
-
-## 🚀 Projects  
-- **Tourism Website** 🌍  
-  Built using HTML, CSS, Python, and SQL to showcase destinations and booking features.  
-
-- **Medicare Services Website** 🏥  
-  Includes doctor selection, lab tests, and chatbot functionality for patients.  
-
--**Realtime Tracker
-Make a realtime tracker which tells the location where you are exactly with a marker . I used a
-leaflet to make this realtime tracker.
-
--**Zerodha
-StockGame is a Zerodha-inspired trading and investment simulation platform featuring a React-based frontend
-and a Node.js + Express backend. It includes an interactive dashboard for visualizing trades, portfolios, and
-profit/loss, enabling users to experience real-world trading workflows using simulated market data.
-
-
-
 
 ---
 
