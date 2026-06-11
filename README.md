@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Aditya Sharma  
 https://portfolio-nine-xi-30.vercel.app/
 
-🎓 Pursuing MCA at Thapar Institute of Engineering & Technology  
-💻 Exploring Full-Stack Development and DevOps  
+🎓 MCA at Thapar Institute of Engineering & Technology  
+💻 Exploring Full-Stack Development , Backend and Ml .
 🌱 Eager to learn, grow, and gain hands-on experience in building real-world applications  
 
 
