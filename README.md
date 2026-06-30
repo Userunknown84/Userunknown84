@@ -25,8 +25,6 @@ https://portfolio-nine-xi-30.vercel.app/
 
 ---
 
-## 📫 Contact Me  
-- Email: adityasharma5506@gail.com  
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/aditya-sharma-340253236/)  
-- GitHub: [Userunknown84](https://github.com/Userunknown84)
-- Portfolio: https://userunknown84.github.io/MyPortfolio/
+## 📫 Connect With Me 
+- Portfolio: (https://portfolio-nine-xi-30.vercel.app/)
+ LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/aditya-sharma-340253236/)   | GitHub: [Userunknown84](https://github.com/Userunknown84) | 📧 adityasharma5506@gmail.com | 💬 Discord: adityasharma2185 |Portfolio: (https://portfolio-nine-xi-30.vercel.app/)
