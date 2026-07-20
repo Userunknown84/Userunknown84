@@ -3,7 +3,7 @@
 
 <td width="38%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif" width="300" alt="Coding">
+<img src="https://user-images.githubusercontent.com/74038190/212750238-f5c9adba-0d74-4b71-8d8f-8e6f6a4c2b2d.gif" width="300" alt="Developer">
 
 
 </td>
