@@ -3,7 +3,7 @@
 
 <td width="38%" align="center">
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300" alt="Coding">
+<img src="https://raw.githubusercontent.com/rahul-jha98/README-images/main/coding.gif" width="300" alt="Coding">
 
 
 </td>
