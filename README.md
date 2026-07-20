@@ -6,9 +6,7 @@
 <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="280">
 
 <p align="center">
-<img src="https://img.shields.io/badge/Full%20Stack-Developer-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Backend-Developer-10B981?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI-Enthusiast-7C3AED?style=for-the-badge"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=420&lines=Full+Stack+Developer;Backend+Developer;AI+Enthusiast;Open+Source+Learner;Always+Learning+New+Technologies" />
 </p>
 
 </td>
