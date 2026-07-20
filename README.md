@@ -1,29 +1,30 @@
 <div align="center">
 
 ```bash
-┌──(aditya㉿github)-[~/workspace]
-└─$ whoami
+aditya@github:~$ whoami
 Aditya Sharma
 
-┌──(aditya㉿github)-[~/workspace]
-└─$ neofetch
+aditya@github:~$ stack --list
 
-OS: Developer Mode
-Role: Full Stack Developer
-Focus: Backend • Frontend • AI
-Editor: VS Code
-Language: Java, Python, JavaScript
-Frameworks: React, Spring Boot, Express, Flask
-Database: MySQL, PostgreSQL, MongoDB
-Tools: Docker, Git, Jenkins
+✔ Full Stack Development
+✔ Frontend Development
+✔ Backend Development
+✔ AI & Machine Learning
 
-┌──(aditya㉿github)-[~/workspace]
-└─$ uptime
+aditya@github:~$ tech
 
-Learning for 24/7 🚀
+Languages   :: Java • Python • JavaScript • C++
+Backend     :: Spring Boot • Node.js • Express • Flask
+Database    :: MySQL • PostgreSQL • MongoDB • Firebase
+DevOps      :: Docker • Jenkins • Git
 
-┌──(aditya㉿github)-[~/workspace]
-└─$ █
+aditya@github:~$ currently
+
+→ Building scalable applications
+→ Learning AI Engineering
+→ Exploring modern backend architecture
+
+aditya@github:~$ █
 ```
 
 </div>
