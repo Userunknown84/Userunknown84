@@ -1,72 +1,65 @@
-<h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
-<h3 align="center">Full-Stack Developer • Backend Developer • Machine Learning Enthusiast</h3>
+<table>
+<tr>
 
-<p align="center">
-  <a href="https://portfolio-nine-xi-30.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="https://www.linkedin.com/in/aditya-sharma-340253236/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/Userunknown84">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-  </a>
+<td width="38%" align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=250&lines=Full+Stack+Developer;Backend+Developer;Machine+Learning+Enthusiast;Always+Learning..." />
+
+</td>
+
+<td width="62%">
+
+# Hi 👋 I'm Aditya Sharma
+
+🎓 **MCA Graduate**  
+Thapar Institute of Engineering & Technology
+
+💻 Passionate about
+
+- Backend Development
+- Full Stack Development
+- Machine Learning
+
+🌱 Currently Learning
+
+- Scalable Backend Systems
+- DevOps
+- AI Engineering
+
+---
+
+### 🛠 Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,express,flask,mysql,firebase,docker,jenkins,git,github,vscode,postman"/>
+
 </p>
 
 ---
 
-## 🚀 About Me
+### 🌐 Connect
 
-🎓 MCA Graduate from **Thapar Institute of Engineering & Technology**
+<a href="https://portfolio-nine-xi-30.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=vercel"/>
+</a>
 
-💻 Passionate about **Backend Development, Full-Stack Development, and Machine Learning**
+<a href="https://www.linkedin.com/in/aditya-sharma-340253236/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-🌱 Always exploring new technologies and building real-world applications.
+<a href="mailto:adityasharma5506@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
 
-⚡ Currently learning scalable backend systems, DevOps, and AI.
+</td>
 
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,firebase" />
-</p>
-
-### DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,vscode,postman" />
-</p>
-
----
-
-## 📚 Certifications
-
-- ☁️ AWS Academy
-- ☕ Java + DSA
-- 🌐 Full Stack Development
-- 🤖 Introduction to Modern AI
+</tr>
+</table>
 
 ---
 
@@ -83,32 +76,5 @@
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=Userunknown84&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
----
-
-## 🚀 Featured Projects
-
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:adityasharma5506@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/Userunknown84">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/aditya-sharma-340253236/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://portfolio-nine-xi-30.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge"/>
-</a>
 
 </p>
