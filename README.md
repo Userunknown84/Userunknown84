@@ -7,7 +7,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=250&lines=Full+Stack+Developer;Backend+Developer;Machine+Learning+Enthusiast;Always+Learning..." />
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="280">
 
 </td>
 
