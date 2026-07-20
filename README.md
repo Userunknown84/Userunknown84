@@ -3,11 +3,8 @@
 
 <td width="38%" align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/>
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="280">
 
-<br><br>
-
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="280">
 
 </td>
 
