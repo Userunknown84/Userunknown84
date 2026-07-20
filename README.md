@@ -1,39 +1,109 @@
-<div align="center">
+<table>
+<tr>
 
-```bash
-aditya@github:~$ whoami
-Aditya Sharma
+<td width="38%" align="center">
 
-aditya@github:~$ stack --list
-
-✔ Full Stack Development
-✔ Frontend Development
-✔ Backend Development
-✔ AI & Machine Learning
-
-aditya@github:~$ tech
-
-Languages   :: Java • Python • JavaScript • C++
-Backend     :: Spring Boot • Node.js • Express • Flask
-Database    :: MySQL • PostgreSQL • MongoDB • Firebase
-DevOps      :: Docker • Jenkins • Git
-
-aditya@github:~$ currently
-
-→ Building scalable applications
-→ Learning AI Engineering
-→ Exploring modern backend architecture
-
-aditya@github:~$ █
-```
-
-</div>
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="280">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Userunknown84&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Userunknown84&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Frontend+Developer;Backend+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Learner" alt="Typing SVG" />
+</p>
+
+</td>
+
+<td width="62%">
+
+# Hi 👋 I'm Aditya Sharma
+
+🎓 **MCA Graduate**  
+Thapar Institute of Engineering & Technology
+
+💻 Passionate about
+
+- Backend Development
+- Full Stack Development
+- Ai Enthusiast
+- Problem Solver
+
+🌱 Currently Learning
+
+- Scalable Backend Systems
+- Frontend Development
+- Database Design & Optimization
+- AI Engineering
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript" />
+</p>
+
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,spring,maven,gradle" />
+</p>
+
+**Also:** JDBC • Servlets • Spring Boot • Spring Security • Hibernate
+
+---
+
+### 🌐 API Development
+- REST APIs
+- Postman
+- Hoppscotch
+
+---
+
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres" />
+</p>
+
+---
+
+### ☁️ DevOps & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,jenkins,vscode,idea" />
+</p>
+
+---
+
+### 🌐 Connect
+
+<a href="https://portfolio-nine-xi-30.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aditya-sharma-340253236/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:adityasharma5506@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Userunknown84&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Userunknown84&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Userunknown84&theme=github-dark-blue&hide_border=true"/>
-</p>
+
+<img src="https://streak-stats.demolab.com?user=Userunknown84&theme=github-dark-blue&hide_border=true"/>
+
+</p> 
