@@ -34,7 +34,7 @@ Thapar Institute of Engineering & Technology
 
 ### 💻 Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c++,javascript" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript" />
 </p>
 
 ### ⚙️ Backend
