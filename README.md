@@ -5,6 +5,12 @@
 
 <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="280">
 
+<p align="center">
+<img src="https://img.shields.io/badge/Full%20Stack-Developer-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-Developer-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Enthusiast-7C3AED?style=for-the-badge"/>
+</p>
+
 </td>
 
 <td width="62%">
