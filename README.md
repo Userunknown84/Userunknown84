@@ -18,22 +18,51 @@ Thapar Institute of Engineering & Technology
 
 - Backend Development
 - Full Stack Development
-- Machine Learning
+- Ai Enthusiast
+- Problem Solver
 
 🌱 Currently Learning
 
 - Scalable Backend Systems
-- DevOps
+- Frontend Development
+- Database Design & Optimization
 - AI Engineering
 
 ---
 
-### 🛠 Tech Stack
+## 🛠️ Tech Stack
 
+### 💻 Programming Languages
 <p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,express,flask,mysql,firebase,docker,jenkins,git,github,vscode,postman"/>
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,spring,maven,gradle" />
+</p>
 
+**Also:** JDBC • Servlets • Spring Boot • Spring Security • Hibernate
+
+---
+
+### 🌐 API Development
+- REST APIs
+- Postman
+- Hoppscotch
+
+---
+
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres" />
+</p>
+
+---
+
+### ☁️ DevOps & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,jenkins,vscode,idea" />
 </p>
 
 ---
