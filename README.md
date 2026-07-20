@@ -6,7 +6,7 @@
 <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="280">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=420&lines=Full+Stack+Developer;Backend+Developer;AI+Enthusiast;Open+Source+Learner;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Frontend+Developer;Backend+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Learner" alt="Typing SVG" />
 </p>
 
 </td>
