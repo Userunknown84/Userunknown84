@@ -1,5 +1,5 @@
 <p align="center">
-<img src="YOUR_BANNER_IMAGE_URL" width="100%" />
+<img src="DIRECT_GIF_URL" width="300">
 </p>
 
 <h1 align="center">Hi 👋 I'm Aditya Sharma</h1>
