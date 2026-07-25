@@ -1,5 +1,5 @@
 <p align="center">
-<img src="images/bmw-m4.gif" width="100%">
+<img src="https://media.tenor.com/4L7D6QJQ8WQAAAAC/bmw-car.gif" width="100%">
 </p>
 
 <h1 align="center">Hi 👋 I'm Aditya Sharma</h1>
