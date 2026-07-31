@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750118-1d3d6c85-58d4-4f93-b0f2-5b4e5cb9f53.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212750337-3c0ba5d6-d5fb-4c95-8f4e-9e6c0db8b0e8.gif" width="100%">
 </p>
-
 <h1 align="center">Hi 👋 I'm Aditya Sharma</h1>
 
 <h3 align="center">
