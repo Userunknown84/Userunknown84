@@ -96,6 +96,13 @@ Full Stack Developer • AI/ML Enthusiast • Backend Developer
 
 </p>
 
+### AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+</p>
+
+
 ### DevOps & Tools
 
 <p>
