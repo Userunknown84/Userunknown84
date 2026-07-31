@@ -10,6 +10,13 @@ Full Stack Developer • AI/ML Enthusiast • Backend Developer
 </h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MCA-Graduate-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%2FML-Enthusiast-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-purple?style=for-the-badge"/>
+</p>
+
+<p align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Developer;AI+%26+Machine+Learning+Enthusiast;Problem+Solver;Open+Source+Contributor"/>
 
