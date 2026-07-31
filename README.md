@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213911167-25e0b83d-4a89-4d8f-aef2-f4cbd4f3c6f3.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 </p>
 
 
