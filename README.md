@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.tenor.com/4L7D6QJQ8WQAAAAC/bmw-car.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 </p>
 
 <h1 align="center">Hi 👋 I'm Aditya Sharma</h1>
