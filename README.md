@@ -134,15 +134,6 @@ Full Stack Developer • AI/ML Enthusiast • Backend Developer
 
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Userunknown84&theme=algolia&no-frame=true&margin-w=15&row=1"/>
-
-</p>
 
 ---
 
