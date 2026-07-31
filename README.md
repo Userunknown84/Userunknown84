@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212750118-1d3d6c85-58d4-4f93-b0f2-5b4e5cb9f53.gif" width="100%">
 </p>
 
 <h1 align="center">Hi 👋 I'm Aditya Sharma</h1>
