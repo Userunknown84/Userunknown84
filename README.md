@@ -154,6 +154,10 @@ Full Stack Developer • AI/ML Enthusiast • Backend Developer
 
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Userunknown84/Userunknown84/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 ---
 
 <p align="center">
@@ -161,3 +165,4 @@ Full Stack Developer • AI/ML Enthusiast • Backend Developer
 ![](https://komarev.com/ghpvc/?username=Userunknown84&style=for-the-badge&color=blue)
 
 </p>
+
