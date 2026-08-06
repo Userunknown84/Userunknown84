@@ -137,9 +137,9 @@ Full Stack Developer • AI/ML Enthusiast • Backend Developer
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Userunknown84&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Userunknown84&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Userunknown84&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Userunknown84&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400"/>
 
 </p>
 
