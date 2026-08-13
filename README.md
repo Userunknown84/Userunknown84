@@ -158,6 +158,9 @@ Full Stack Developer • AI/ML Enthusiast • Backend Developer
   <img src="https://raw.githubusercontent.com/Userunknown84/Userunknown84/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
+<p align="center">
+  <img src="YOUR_GIF_URL" width="800">
+</p>
 
 <p align="center">
 
