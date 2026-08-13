@@ -157,8 +157,15 @@ Full Stack Developer • AI/ML Enthusiast • Backend Developer
 <p align="center">
   <img src="https://raw.githubusercontent.com/Userunknown84/Userunknown84/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
-
+![Pac-Man](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg)
+![Space Invaders](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/space-invaders.svg)
+![Tetris](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/tetris.svg)
+![Mario](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/mario.svg)
+![Dino](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/dino.svg)
+![Asteroids](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/asteroids.svg)
+![Flappy Bird](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/flappy-bird.svg)
+![Chess](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/chess.svg)
+![Matrix](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/matrix.gif)
 
 ![](https://komarev.com/ghpvc/?username=Userunknown84&style=for-the-badge&color=blue)
 
